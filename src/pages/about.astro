@@ -39,11 +39,9 @@ import { Image } from 'astro:assets';
 <section class="image-pair">
   <div class="image-pair-item">
     <Image src={Image1} alt="Description of first image" class="full-height-image" />
-    <figcaption>Caption for first image</figcaption>
   </div>
   <div class="image-pair-item">
     <Image src={Image2} alt="Description of second image" class="full-height-image" />
-    <figcaption>Caption for second image</figcaption>
   </div>
 </section>
 
@@ -55,18 +53,10 @@ import { Image } from 'astro:assets';
   margin-top: 2rem;
   flex-wrap: wrap;
 }
-
 .image-pair-item {
   flex: 1 1 45%;
   text-align: center;
 }
-
-.image-pair-item figcaption {
-  margin-top: 0.5rem;
-  font-size: 0.9rem;
-  color: #555;
-}
-
 /* Make images full height while keeping aspect ratio */
 .full-height-image {
   width: auto;      /* width adjusts automatically */

@@ -27,5 +27,18 @@ The current prototype showcases several small games, including:
 
 The next steps are to create full games for it. I still dream of making my own small version of Pokémon as well as other mini-games.
 
-//TODO: add pictures of the physical device  
-//TODO: add gameplay clips
+<figure class="center">
+  <video controls width="640" height="360" poster="/poster-image.jpg">
+    <source src="https://youtu.be/VI0uthSYkag" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>Pong</figcaption>
+</figure>
+
+<figure class="center">
+  <video controls width="640" height="360" poster="/poster-image.jpg">
+    <source src="https://youtu.be/VI0uthSYkag" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>Animation Demo</figcaption>
+</figure>

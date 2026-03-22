@@ -27,8 +27,10 @@ In this project my focus was on implementing the different **puzzles** that the 
 </div>
 
 <figure class="center">
-  <video controls width="600" preload="metadata">
-    <source src="https://drive.google.com/uc?export=download&id=1NKkLrZJvOzWxCfY59whObTNFR1aczNlK" type="video/mp4">
+
+  <video controls width="640" height="360" poster="/poster-image.jpg">
+    <source src="https://youtu.be/OwTUinJ04v8" type="video/mp4" />
+    Your browser does not support the video tag.
   </video>
   <figcaption>Navigation system</figcaption>
 </figure>
