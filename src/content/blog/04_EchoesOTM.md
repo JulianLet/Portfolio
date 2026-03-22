@@ -45,9 +45,7 @@ Another focus I had was the creation of the **enemy and boss AI**. The enemies a
 
 <figure class="center">
   <video controls width="600" preload="metadata">
-    <source src="/public/assets/04_EoM/07_AttackSchemes.mp4" type="video/mp4">
-    <source src="/public/assets/04_EoM/07_AttackSchemes.webm" type="video/webm">
-    Your browser does not support the video tag.
+    <source src="https://drive.google.com/file/d/1ZlD9c02aOERoKdBWFsk76DQlIGSr-jPu/view?usp=drive_link" type="video/mp4">
   </video>
     <figcaption>Different attack behaviours for Mommotti and Pulchinella</figcaption>
 </figure>

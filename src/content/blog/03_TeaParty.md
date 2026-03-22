@@ -28,9 +28,7 @@ In this project my focus was on implementing the different **puzzles** that the 
 
 <figure class="center">
   <video controls width="600" preload="metadata">
-    <source src="/assets/03_TeaParty/02_NavigationClip.mp4" type="video/mp4">
-    <source src="/assets/03_TeaParty/02_NavigationClip.webm" type="video/webm">
-    Your browser does not support the video tag.
+    <source src="https://drive.google.com/file/d/1NKkLrZJvOzWxCfY59whObTNFR1aczNlK/view?usp=drive_link" type="video/mp4">
   </video>
   <figcaption>Navigation system</figcaption>
 </figure>

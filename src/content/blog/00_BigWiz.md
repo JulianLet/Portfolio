@@ -16,18 +16,14 @@ In this project we were two programming students collaborating. My focus was on 
 
 <figure class="center">
   <video controls width="600" preload="metadata">
-    <source src="/assets/00_BigWiz/01_Crafting.mp4" type="video/mp4">
-    <source src="/assets/00_BigWiz/01_Crafting.webm" type="video/webm">
-    Your browser does not support the video tag.
+    <source src="https://drive.google.com/file/d/1e5GRnFJSpZjKDqRCnIZI2d932UlpOqqr/view?usp=drive_link" type="video/mp4">
   </video>
   <figcaption>Crafting and Inventory</figcaption>
 </figure>
 
 <figure class="center">
   <video controls width="600" preload="metadata">
-    <source src="/assets/00_BigWiz/02_Spells.mp4" type="video/mp4">
-    <source src="/assets/00_BigWiz/02_Spells.webm" type="video/webm">
-    Your browser does not support the video tag.
+    <source src="https://drive.google.com/file/d/1yVKQPvaFbVe2h8QdhpXs_IdsdJwriEOJ/view?usp=drive_link" type="video/mp4">
   </video>
   <figcaption>Using Spells</figcaption>
 </figure>
