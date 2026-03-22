@@ -8,11 +8,11 @@ import { Image } from 'astro:assets';
 ---
 
 <Layout
-	title="About Me"
-	description="My journey from engineering to game programming and personal interests"
-	pubDate={new Date('Mar 22 2026')}
-	heroImage={AboutHeroImage}
->
+  title="About Me"
+  description="My journey from engineering to game programming and personal interests"
+  pubDate={new Date('Mar 22 2026')}
+/>
+
 <p>
 	When I was 16, I started a trainee program as a Design Engineer at EVO GmbH in Munich. There, I learned how to work professionally on projects and as part of a team. 
 	I also gained experience with _Catia V5_ and _Autodesk Inventor_. Over the next eight years, I helped develop interior parts for BMW, Rolls-Royce, Mini, and Carthago, 
@@ -38,34 +38,43 @@ import { Image } from 'astro:assets';
 
 <section class="image-pair">
   <div class="image-pair-item">
-    <Image src={Image1} width={400} height={300} alt="Description of first image" />
+    <Image src={Image1} alt="Description of first image" class="full-height-image" />
     <figcaption>Caption for first image</figcaption>
   </div>
   <div class="image-pair-item">
-    <Image src={Image2} width={400} height={300} alt="Description of second image" />
+    <Image src={Image2} alt="Description of second image" class="full-height-image" />
     <figcaption>Caption for second image</figcaption>
   </div>
 </section>
 
 <style>
-  .image-pair {
-    display: flex;
-    gap: 2rem;
-    justify-content: center;
-    margin-top: 2rem;
-    flex-wrap: wrap;
-  }
+.image-pair {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
 
-  .image-pair-item {
-    flex: 1 1 45%;
-    text-align: center;
-  }
+.image-pair-item {
+  flex: 1 1 45%;
+  text-align: center;
+}
 
-  .image-pair-item figcaption {
-    margin-top: 0.5rem;
-    font-size: 0.9rem;
-    color: #555;
-  }
+.image-pair-item figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* Make images full height while keeping aspect ratio */
+.full-height-image {
+  width: auto;      /* width adjusts automatically */
+  height: 100%;     /* fill container height */
+  max-height: 500px; /* optional: prevent super tall images */
+  object-fit: contain; /* show full image without cropping */
+}
+</style>
 </style>
 
 </Layout>
