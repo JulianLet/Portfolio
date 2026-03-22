@@ -16,14 +16,14 @@ In this project we were two programming students collaborating. My focus was on 
 
 <figure class="center">
   <video controls width="600" preload="metadata">
-    <source src="https://drive.google.com/file/d/1e5GRnFJSpZjKDqRCnIZI2d932UlpOqqr/view?usp=drive_link" type="video/mp4">
+    <source src="https://drive.google.com/uc?export=download&id=1e5GRnFJSpZjKDqRCnIZI2d932UlpOqqr" type="video/mp4">
   </video>
   <figcaption>Crafting and Inventory</figcaption>
 </figure>
 
 <figure class="center">
   <video controls width="600" preload="metadata">
-    <source src="https://drive.google.com/file/d/1yVKQPvaFbVe2h8QdhpXs_IdsdJwriEOJ/view?usp=drive_link" type="video/mp4">
+    <source src="https://drive.google.com/uc?export=download&id=1yVKQPvaFbVe2h8QdhpXs_IdsdJwriEOJ" type="video/mp4">
   </video>
   <figcaption>Using Spells</figcaption>
 </figure>

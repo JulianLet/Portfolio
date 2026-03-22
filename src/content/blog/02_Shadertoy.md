@@ -16,21 +16,21 @@ I created a **shader writing system** in _Visual Studio 2022_ using _C++_ and _O
 
 <figure class="center">
   <video controls width="600" preload="metadata">
-    <source src="https://drive.google.com/file/d/1c1mme6xrD5_asvhff-RDS6VqeqA-usRh/view?usp=drive_link" type="video/mp4">
+    <source src="https://drive.google.com/uc?export=download&id=1c1mme6xrD5_asvhff-RDS6VqeqA-usRh" type="video/mp4">
   </video>
   <figcaption>First test with reflection</figcaption>
 </figure>
 
 <figure class="center">
   <video controls width="600" preload="metadata">
-    <source src="https://drive.google.com/file/d/1yotq0C9OaFZufRNH5NCrAVeDx7sINVC8/view?usp=drive_link" type="video/mp4">
+    <source src="https://drive.google.com/uc?export=download&id=1yotq0C9OaFZufRNH5NCrAVeDx7sINVC8" type="video/mp4">
   </video>
   <figcaption>Animated shader inspired by Shadertoy</figcaption>
 </figure>
 
 <figure class="center">
   <video controls width="600" preload="metadata">
-    <source src="https://drive.google.com/file/d/1GuHEmrniB_i2g4kwseNaRyCiIHnpF2f8/view?usp=drive_link" type="video/mp4">
+    <source src="https://drive.google.com/uc?export=download&id=1GuHEmrniB_i2g4kwseNaRyCiIHnpF2f8" type="video/mp4">
   </video>
   <figcaption>Animated Heart shader</figcaption>
 </figure>

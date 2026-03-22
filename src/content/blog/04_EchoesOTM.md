@@ -45,9 +45,9 @@ Another focus I had was the creation of the **enemy and boss AI**. The enemies a
 
 <figure class="center">
   <video controls width="600" preload="metadata">
-    <source src="https://drive.google.com/file/d/1ZlD9c02aOERoKdBWFsk76DQlIGSr-jPu/view?usp=drive_link" type="video/mp4">
+    <source src="https://drive.google.com/uc?export=download&id=1ZlD9c02aOERoKdBWFsk76DQlIGSr-jPu" type="video/mp4">
   </video>
-    <figcaption>Different attack behaviours for Mommotti and Pulchinella</figcaption>
+  <figcaption>Different attack behaviours for Mommotti and Pulchinella</figcaption>
 </figure>
 
 <!-- reflection -->

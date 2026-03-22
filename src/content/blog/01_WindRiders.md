@@ -18,7 +18,7 @@ In this project, my focus was on the **physics system**, specifically how the sa
 
 <figure class="center">
   <video controls width="600" preload="metadata">
-    <source src="https://drive.google.com/file/d/16n37KZhJGqLiaQelsJLNyUMAXmyMNnYa/view?usp=drive_link" type="video/mp4">
+    <source src="https://drive.google.com/uc?export=download&id=16n37KZhJGqLiaQelsJLNyUMAXmyMNnYa" type="video/mp4">
   </video>
   <figcaption>Gameplay</figcaption>
 </figure>

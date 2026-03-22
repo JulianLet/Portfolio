@@ -28,7 +28,7 @@ In this project my focus was on implementing the different **puzzles** that the 
 
 <figure class="center">
   <video controls width="600" preload="metadata">
-    <source src="https://drive.google.com/file/d/1NKkLrZJvOzWxCfY59whObTNFR1aczNlK/view?usp=drive_link" type="video/mp4">
+    <source src="https://drive.google.com/uc?export=download&id=1NKkLrZJvOzWxCfY59whObTNFR1aczNlK" type="video/mp4">
   </video>
   <figcaption>Navigation system</figcaption>
 </figure>
