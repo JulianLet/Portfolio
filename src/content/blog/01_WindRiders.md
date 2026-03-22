@@ -17,7 +17,9 @@ Try this game on <a href="https://julianletsche.itch.io/wind-riders" target="_bl
 In this project, my focus was on the **physics system**, specifically how the sail catches the wind to push the boat. I was also in charge of setting up the **custom input system**. We used two computer mice and split their vertical and horizontal input. The mice were attached to the shafts of the rudder and sail, and rotating them simulated mouse movement which we then translated into in-game input.  
 
 <figure class="center">
-  <img src="/assets/01_WindRiders/02_Gameplay.gif" alt="Gameplay" width="800" />
+  <video controls width="600">
+    <source src="/public/assets/01_WindRiders/02_Gameplay.mp4" type="video/mp4" />
+  </video>
   <figcaption>Gameplay</figcaption>
 </figure>
 

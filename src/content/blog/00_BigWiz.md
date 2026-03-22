@@ -15,12 +15,16 @@ Try this game on <a href="https://julianletsche.itch.io/bigwiz" target="_blank" 
 In this project we were two programming students collaborating. My focus was on the **inventory and crafting system**. Defeating enemies dropped items which the player collected. These were used to craft new spells which unlock stronger attacks. 
 
 <figure class="center">
-  <img src="/assets/00_BigWiz/01_Crafting.gif" alt="Crafting" width="800" />
+  <video controls width="600">
+    <source src="/public/assets/00_BigWiz/01_Crafting.mp4" type="video/mp4" />
+  </video>
   <figcaption>Crafting and Inventory</figcaption>
 </figure>
 
 <figure class="center">
-  <img src="/assets/00_BigWiz/02_Spells.gif" alt="Spells" width="800" />
+  <video controls width="600">
+    <source src="/public/assets/00_BigWiz/02_Spells.mp4" type="video/mp4" />
+  </video>
   <figcaption>Using Spells</figcaption>
 </figure>
 

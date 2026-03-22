@@ -27,7 +27,10 @@ In this project my focus was on implementing the different **puzzles** that the 
 </div>
 
 <figure class="center">
-  <img src="/assets/03_TeaParty/02_NavigationClip.gif" alt="Navigating" width="800" />
+
+  <video controls width="600">
+    <source src="/public/assets/03_TeaParty/02_NavigationClip.mp4" type="video/mp4" />
+  </video>
   <figcaption>Navigation system</figcaption>
 </figure>
 

@@ -6,23 +6,22 @@ heroImage: '/public/assets/05_GameEngine/00_Logo.png'
 ---
 
 <!-- summary -->
-This is my big passion project. During the arcade course we had a temporary idea of adding fans to simulate the wind for the player which led to me buying my own **Raspberry Pi Pico** microcontroller sample kit. After some smaller projects and lots of tutorials I wanted to use my game design education to combine with my new found passion. And after I played Pokemon on my old GameBoy color I had the right inspiration on what that new project should be. I want to create my own handheld consol to be able to create and play my own games on it. For this project I used _Visual Studio Code_ with _C++_ and the _Raspberry Pi Add On_.
+This is my passion project: a **handheld game console** built with a Raspberry Pi Pico microcontroller. Inspired by playing Pokémon on my old GameBoy Color, I wanted a device that could run my own games. Using _Visual Studio Code_ with _C++_ and the Raspberry Pi Add-On, I’m building both the games and the underlying engine.
 
-In addition with a guest lecture we had about **Entity-Component-Systems**, which I found a very interesting concept but never had the chance to implement it, I had the architectual structure for this project set and only needed to start. From struggles with getting my Physics engine to run and also implementing a file system onto my SD card reader to unlock spritesheets and animations for my projects I have a prototype working now. 
-
-The next steps are to create my own games for it. I still have the dream of creating my own small version of Pokemon as well as some other Mini games.
-
-//TODO: add pictues of the physical object
-//TODO: add clips of games
+The engine is built around an **Entity-Component-System (ECS)** architecture for modularity and scalability. It already supports a physics engine, sprite sheets, animations, and a file system on the SD card. Working within the **strict hardware limits** of the Raspberry Pi Pico — very limited RAM and flash memory — forced careful management of assets, memory, and CPU usage. I designed a compact, efficient architecture that handles physics, input, rendering, and file management while keeping resource usage minimal.
 
 <!-- links -->
-Take a look at  <a href="https://github.com/JulianLet/ShadertoyClone" target="_blank" rel="noopener noreferrer">GitHub</a>
+Take a look at  <a href="https://github.com/JulianLet/RPi_GameEngine" target="_blank" rel="noopener noreferrer">GitHub</a>
 
+<!-- my focus -->
+This project taught me a lot about combining hardware and software in game development. Implementing an ECS, building a physics engine, and managing sprite sheets and file systems on an SD card helped me learn how to structure a large-scale, modular engine. Seeing my own games run on a custom handheld device is incredibly rewarding, and balancing functionality with strict memory and performance constraints has been one of the most technically challenging and satisfying aspects of the project.
 
-This is my big passion project: a **handheld game console** built using a Raspberry Pi Pico microcontroller. Inspired by playing Pokemon on my old GameBoy Color, I wanted to create a device that could run my own games. I use _Visual Studio Code_ with _C++_ and the _Raspberry Pi Add-On_ to develop games and the underlying engine.
+The current prototype showcases several small games, including:
+- A Pong clone  
+- A Jump'n'Run demo  
+- A tilemap/animation demo where the player can walk around a small area  
 
-After learning about **Entity-Component-Systems** in a guest lecture, I structured my engine around this architecture. The prototype already supports a physics engine, sprite sheets, animations, and a file system on the SD card.
+The next steps are to create full games for it. I still dream of making my own small version of Pokémon as well as other mini-games.
 
-This project has taught me a lot about combining hardware and software in a game development context. From implementing an Entity-Component-System, building a physics engine, to managing sprite sheets and file systems on an SD card, I have learned how to structure a large-scale, modular game engine. Seeing my own games run on a custom handheld device is incredibly rewarding, and I look forward to continuing development and creating full games on it.
-
-In this project, I’m working within the strict hardware limits of the Raspberry Pi Pico, which has very limited RAM and flash memory. This forced me to carefully manage assets, memory, and CPU usage to ensure the engine could run smoothly. I designed a compact, efficient architecture that handles physics, input, rendering, and file management for spritesheets and animations, all while keeping resource usage minimal. The current prototype showcases several small games, including a Pong clone, a Jump'n'Run demo, and a tilemap/animation demo where the player can walk around a small area. Balancing functionality with strict memory and performance constraints has been one of the most rewarding and technically challenging aspects of this project.
+//TODO: add pictures of the physical device  
+//TODO: add gameplay clips

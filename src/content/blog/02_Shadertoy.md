@@ -15,17 +15,23 @@ Take a look at <a href="https://github.com/JulianLet/ShadertoyClone" target="_bl
 I created a **shader writing system** in _Visual Studio 2022_ using _C++_ and _OpenGL_. I set up the basic essentials with vertex buffers, frame buffers, and index buffers. I also added ImGui to create a testing platform where I could quickly switch between different shader examples. I then created several shader examples, ranging from rendering a basic disc to light reflections on a plane, and animated shaders inspired by shaders commonly found on Shadertoy.
 
 <figure class="center">
-  <img src="/assets/02_Shadertoy/01_LightTest.gif" alt="Light" width="800" />
+  <video controls width="600">
+    <source src="/public/assets/02_Shadertoy/01_LightTest.mp4" type="video/mp4" />
+  </video>
   <figcaption>First test with reflection</figcaption>
 </figure>
 
 <figure class="center">
-  <img src="/assets/02_Shadertoy/02_AnimatingTest.gif" alt="Animated" width="800" />
+  <video controls width="600">
+    <source src="/public/assets/02_Shadertoy/02_AnimatingTest.mp4" type="video/mp4" />
+  </video>
   <figcaption>Animated shader inspired by Shadertoy</figcaption>
 </figure>
 
 <figure class="center">
-  <img src="/assets/02_Shadertoy/03_HeartTest.gif" alt="Heart" width="800" />
+  <video controls width="600">
+    <source src="/public/assets/02_Shadertoy/03_HeartTest.mp4" type="video/mp4" />
+  </video>
   <figcaption>Animated Heart shader</figcaption>
 </figure>
 
