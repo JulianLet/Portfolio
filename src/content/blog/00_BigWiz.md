@@ -15,12 +15,12 @@ Play this game on <a href="https://julianletsche.itch.io/bigwiz" target="_blank"
 In this project we were two programming students colaborating. My focus was on the **inventory and crafting system**. Defeated enemys dropped items which the player could use to craft new spells to unlock stronger attacks. 
 
 <figure class="center">
-  <img src="/public/assets/00_BigWiz/01_Crafting.gif" alt="Crafting" width="800" />
+  <img src="/assets/00_BigWiz/01_Crafting.gif" alt="Crafting" width="800" />
   <figcaption>Crafting and Inventory</figcaption>
 </figure>
 
 <figure class="center">
-  <img src="/public/assets/00_BigWiz/02_Spells.gif" alt="Spells" width="800" />
+  <img src="/assets/00_BigWiz/02_Spells.gif" alt="Spells" width="800" />
   <figcaption>Using Spells</figcaption>
 </figure>
 
@@ -28,8 +28,8 @@ For the final version of the game I was also in charge of creating the **level d
 
 <!-- grid -->
 <div class="grid-gallery">
-  <img src="/public/assets/00_BigWiz/04_LevelLayoutTwo.png" alt="LevelOne" />
-  <img src="/public/assets/00_BigWiz/05_SpawnerSetup.png" alt="Spawner" />
+  <img src="/assets/00_BigWiz/04_LevelLayoutTwo.png" alt="LevelOne" />
+  <img src="/assets/00_BigWiz/05_SpawnerSetup.png" alt="Spawner" />
 </div>
 
 <!-- reflection -->

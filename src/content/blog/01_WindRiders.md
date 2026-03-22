@@ -17,12 +17,12 @@ Play this game on <a href="https://julianletsche.itch.io/wind-riders" target="_b
 In this project my focus was on the **physics system**, on how the sail cought the wind and pushed the boat. I was also in charge of setting up the **custom input system**. We used two computer mice and split their vertical and horizontal movement input. The mice were attached to the shafts of the rudder and sail, and moving them was simulating the mouse moving over the table which we then translated inside the game.  
 
 <figure class="center">
-  <img src="/public/assets/01_WindRiders/02_Gameplay.gif" alt="Gameplay" width="800" />
+  <img src="/assets/01_WindRiders/02_Gameplay.gif" alt="Gameplay" width="800" />
   <figcaption>Gameplay</figcaption>
 </figure>
 
 <figure class="center">
-  <img src="/public/assets/01_WindRiders/03_InputConcept.png" alt="Input" width="800" />
+  <img src="/assets/01_WindRiders/03_InputConcept.png" alt="Input" width="800" />
   <figcaption>Concept of Custom Input</figcaption>
 </figure>
 
@@ -31,15 +31,15 @@ Another big aspect I was focusing on was the **enemy AI** which the player was r
 
 <!-- grid -->
 <div class="grid-gallery">
-  <img src="/public/assets/01_WindRiders/04_AICheckpoints.png" alt="LevelOne" />
-  <img src="/public/assets/01_WindRiders/05_AISettings.png" alt="Spawner" />
+  <img src="/assets/01_WindRiders/04_AICheckpoints.png" alt="LevelOne" />
+  <img src="/assets/01_WindRiders/05_AISettings.png" alt="Spawner" />
 </div>
 
 <!-- reflection -->
 This project did a lot to me. From the amazing team I had, to the hours in the workshop building the booth as well as the realisation that Game Design programming does not need to be with controller or keyboard inputs. And all this work being rewarded with winning an award made it all worth so much more.
 
 <figure class="center">
-  <img src="/public/assets/01_WindRiders/Elias.JPEG" alt="Input" width="800" />
+  <img src="/assets/01_WindRiders/Elias.JPEG" alt="Input" width="800" />
 </figure>
 
 <style>
