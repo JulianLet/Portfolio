@@ -31,7 +31,7 @@ The next steps are to create full games for it. I still dream of making my own s
   <iframe 
     width="640" 
     height="360" 
-    src="https://www.youtube.com/embed/VI0uthSYkag" 
+    src="https://youtu.be/ejguey6CQ4o" 
     title="Pong" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -44,7 +44,7 @@ The next steps are to create full games for it. I still dream of making my own s
   <iframe 
     width="640" 
     height="360" 
-    src="https://www.youtube.com/embed/VI0uthSYkag" 
+    src="https://youtu.be/CrplLZgiRWM" 
     title="Animation Demo" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
