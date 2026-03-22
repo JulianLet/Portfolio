@@ -6,15 +6,15 @@ heroImage: '/assets/04_EoM/00_Logo.jpg'
 ---
 
 <!-- summary -->
-This game was part of our Vertical Slice course. It is a **rouge-like action game** based around music and Italian folklore. We got ten weeks to be able to develop our dream game full time. We even got our own office spaces. Our project owner was a ver passionate Italian who came up with the idea for the game.
+This game was part of our Vertical Slice course. It is a **rogue-like action game** based around music and Italian folklore. We had ten weeks to develop our dream game full-time within our own office spaces. Our project owner was a very passionate Italian who pitched the idea for the game.
 
 <!-- links -->
-We got to display this project at the <a href="https://game.speldesign.uu.se/projects/3d-games/echoes-of-the-masquerade/" target="_blank" rel="noopener noreferrer">Gotland Game Conference 2025</a>.
+This project was showcased at the <a href="https://game.speldesign.uu.se/projects/3d-games/echoes-of-the-masquerade/" target="_blank" rel="noopener noreferrer">Gotland Game Conference 2025</a>.
 
-Get this game on <a href="https://cristian-de-santis.itch.io/echoes-of-the-masquerade" target="_blank" rel="noopener noreferrer">itch.io</a>. Only playable on windows.
+Get this game on <a href="https://cristian-de-santis.itch.io/echoes-of-the-masquerade" target="_blank" rel="noopener noreferrer">itch.io</a>. Only playable on Windows.
 
 <!-- my focus -->
-For this project my focus was on developing a **tilable world generation system**. We wanted to have a semi random map every time the player started a new game. So we created different variations of chambers and path tiles which were then instanciated when the player started the game. This is done my applying an _A* algorithm_ to connect the generated chambers with each other and filling the generated paths with the appropiate path tiles.
+For this project, my focus was on developing a **tileable world generation system**. We wanted a semi-random map each time the player started a new game. To achieve this, we created different variations of chambers and path tiles, which were then instantiated at the start of the game. An _A* algorithm_ was used to connect the generated chambers, and the generated paths were filled with the appropriate path tiles.
 
 <figure class="center">
   <img src="/assets/04_EoM/01_WorldGenTest.png" alt="worldgentest" width="800" />
@@ -31,7 +31,7 @@ For this project my focus was on developing a **tilable world generation system*
   <figcaption>Sample of Chamber Variations with fountain</figcaption>
 </figure>
 
-Next to the world generation I also added a **modular charm system** to apply buffs to the player. The game design was asking for a lot of different charms so my idea was to make the individual buffs as extra componentns which can then be combined to the needs of the specific charm. This simplefied the variety for the differnet charms and made the creation of new ones quick and straightforward.
+In addition to world generation, I also added a **modular charm system** to apply buffs to the player. The game design required many different charms, so I designed individual buffs as separate **components**, which could then be combined to form specific charms. This simplified the variety of charms and made creating new ones quick and straightforward.
 
 <div class="grid-gallery">
   <img src="/assets/04_EoM/04_WineChaliceGDD.png" alt="gdd" />
@@ -41,8 +41,7 @@ Next to the world generation I also added a **modular charm system** to apply bu
   <figcaption>Example of the modular charm setup</figcaption>
 </figure>
 
-Another focus I had was the creation of the **enemy and boss AI**. The enemies and the boss had specific behaviours depending on player position and the current state of the other enemies that were close.
-
+Another focus I had was the creation of the **enemy and boss AI**. The enemies and the boss had specific behaviors that depended on the player’s position and the state of nearby enemies. The Mommotti, the regular enemy encountered during the level, has a passive attack behavior: they circle the player and only attack individually. In contrast, the boss is very aggressive, spamming different attacks depending on the player’s position.
 
 <figure class="center">
   <video controls width="600">
@@ -52,4 +51,4 @@ Another focus I had was the creation of the **enemy and boss AI**. The enemies a
 </figure>
 
 <!-- reflection -->
-As I have been working in a real working environment full time in a team, being back in an office and working alongside you collegues made me realise how much I missed that. Being close to your collegues adds so much more than just shorter communication paths. The laughs in the office, the chats, but also the inspiration of having someone working next to me makes it so much more productive. Again I had the privilege to work with an amazing team with passionate developers. Working in an office also helped me get insights into how the process is for 3D assets, how much time they need to be created and how animations are done. This is also something that is amazing to me. When the game turns from my gray and red boxes to a great looking game.
+Having previously worked full-time in a professional environment, being back in an office and collaborating closely with colleagues reminded me how much I missed that. Being physically close adds more than just shorter communication paths—it brings inspiration, quick feedback, and a more productive workflow. I had the privilege of working with an amazing team of passionate developers. Being in the office also gave me insight into the creation of 3D assets, the time required to produce them, and how animations are implemented. It was incredible to see the game transform from my gray and red placeholder boxes into a fully realized, visually appealing experience.

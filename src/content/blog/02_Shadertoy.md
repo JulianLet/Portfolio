@@ -6,13 +6,13 @@ heroImage: '/assets/02_Shadertoy/00_Logo.png'
 ---
 
 <!-- summary -->
-This was my final project of the Real-Time graphics course. This was a 70 hour project to explore a topic that we could choose freely. I set up an environment from scratch, following a tutorial by the youtuber "The Cherno", to enable shader code programming and then created different examples for it.
+This was my final project of the Real-Time graphics course. We were asked to complete a 70-hour project exploring a topic of our choice. I set up an environment from scratch, following a <a href = "https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2" target="_blank" rel= "noopener noreferrer">tutorial series by the YouTube creator The Cherno</a>, to build an _OpenGL_-based environment for shader programming.
 
 <!-- links -->
-Take a look on <a href="https://github.com/JulianLet/ShadertoyClone" target="_blank" rel="noopener noreferrer">github</a>
+Take a look at <a href="https://github.com/JulianLet/ShadertoyClone" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 <!-- my focus -->
-I created a **shader writing system** in _Visual Studio 2022_ using _C++_. I set up the basic essentials with vertex buffers, frame buffers and index buffers. I also added the imgui environment to help me set up a testing platform to quickly switch between different examples I have created. I then created different shader examples from displaying a basic disc over light reflection on a plane to animated shaders similar to those found on shadertoy.com. 
+I created a **shader writing system** in _Visual Studio 2022_ using _C++_ and _OpenGL_. I set up the basic essentials with vertex buffers, frame buffers, and index buffers. I also added ImGui to create a testing platform where I could quickly switch between different shader examples. I then created several shader examples, ranging from rendering a basic disc to light reflections on a plane, and animated shaders inspired by shaders commonly found on Shadertoy.
 
 <figure class="center">
   <img src="/assets/02_Shadertoy/01_LightTest.gif" alt="Light" width="800" />
@@ -21,13 +21,13 @@ I created a **shader writing system** in _Visual Studio 2022_ using _C++_. I set
 
 <figure class="center">
   <img src="/assets/02_Shadertoy/02_AnimatingTest.gif" alt="Animated" width="800" />
-  <figcaption>Animated shader from shadertoy</figcaption>
+  <figcaption>Animated shader inspired by Shadertoy</figcaption>
 </figure>
 
 <figure class="center">
   <img src="/assets/02_Shadertoy/03_HeartTest.gif" alt="Heart" width="800" />
-  <figcaption>Animated Heart</figcaption>
+  <figcaption>Animated Heart shader</figcaption>
 </figure>
 
 <!-- reflection -->
-I enjoyed this project a lot. As we were able to to freely choose what kind of project we want to do and we did not cover shader code programming during the course I choose this project. We only covered how the render pipeline works and what is happening in a very abstract way, it was hard for me to understand. This project helped me so much in understanding what shaders are, how they work and how they can be written. It also helped me in understanding more and more in how to set up big systems and working environments. How to structure code and how coding architecture works. 
+I enjoyed this project a lot. As we were able to freely choose our project topic, I decided to explore shader programming, which was not covered during the course. We only covered how the render pipeline works and what is happening in a very abstract way. This made it hard for me to understand. This project helped me understand what shaders are, how they work, and how they can be written. It also improved my understanding of how to structure larger systems and development environments, as well as how to structure code and design software architecture.
