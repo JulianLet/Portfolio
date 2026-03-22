@@ -11,7 +11,7 @@ To finish our first year of our Game Design programm we had our first production
 <!-- links -->
 We got to display this project at the <a href="https://game.speldesign.uu.se/projects/arcade-games/wind-riders/" target="_blank" rel="noopener noreferrer">Gotland Game Conference 2024</a> where it was awarded **the Jury Spotlight Award**.
 
-Play this game on <a href="https://julianletsche.itch.io/wind-riders" target="_blank" rel="noopener noreferrer">itch.io</a>
+Try this game on <a href="https://julianletsche.itch.io/wind-riders" target="_blank" rel="noopener noreferrer">itch.io</a>
 
 <!-- my focus -->
 In this project my focus was on the **physics system**, on how the sail cought the wind and pushed the boat. I was also in charge of setting up the **custom input system**. We used two computer mice and split their vertical and horizontal movement input. The mice were attached to the shafts of the rudder and sail, and moving them was simulating the mouse moving over the table which we then translated inside the game.  

@@ -11,7 +11,7 @@ This project was first developed in one weekend in line with the _GameJam Plus 2
 <!-- links -->
 This game was our submission to the <a href="https://itch.io/jam/gamejamplus-2425" target="_blank" rel="noopener noreferrer">GameJamPlus 24/25</a> where we were one of the 60 teams globally, that got selected into the final.
 
-Play this game on <a href="https://oakiki.itch.io/tea-party" target="_blank" rel="noopener noreferrer">itch.io</a>
+Try this game on <a href="https://oakiki.itch.io/tea-party" target="_blank" rel="noopener noreferrer">itch.io</a>
 
 <!-- my focus -->
 In this project my focus was on implementing the different **puzzles** that the player had to complete. To get more verticality into the game I also developed a **navigation system** which included teleporters as well as path swapping.
