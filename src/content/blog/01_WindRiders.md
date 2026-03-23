@@ -3,6 +3,7 @@ title: 'Wind Riders'
 description: 'First year arcade game'
 pubDate: 'May 31 2024'
 heroImage: '/public/assets/01_WindRiders/00_Logo.png'
+bannerImage: '/public/assets/01_WindRiders/00_Logo.png'
 ---
 
 <!-- summary -->

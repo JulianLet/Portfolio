@@ -3,6 +3,7 @@ title: 'Bachelor thesis'
 description: 'My current thesis project'
 pubDate: 'Jun 01 2026'
 heroImage: '/public/assets/06_Thesis/00_Logo.jpg'
+bannerImage: '/public/assets/06_Thesis/00_Logo.jpg'
 ---
 
 <!-- summary -->

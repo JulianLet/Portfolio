@@ -7,7 +7,8 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, bannerImage } = Astro.props;
+const displayImage = bannerImage ?? heroImage;
 ---
 
 <html lang="en">
@@ -52,9 +53,9 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
     <Header />
     <main>
       <article>
-        {heroImage && (
+        {displayImage && (
           <div class="hero-image">
-            <Image src={heroImage} alt="" />
+            <Image src={displayImage} alt="" />
           </div>
         )}
         <div class="prose">
