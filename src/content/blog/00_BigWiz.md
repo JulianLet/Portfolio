@@ -3,7 +3,8 @@ title: "Big Wiz'"
 description: "First year Shoot 'em up game"
 pubDate: 'Mar 21 2024'
 bannerImage: '/public/assets/00_BigWiz/00_Logo.png'
-heroImage: '/public/assets/00_BigWiz/00_Logo.png'
+heroImage: '/public/assets/00_BigWiz/00_LogoSq.png'
+keywords: "Unity, System Programming, Level Design, C#"
 ---
 
 <!-- summary -->

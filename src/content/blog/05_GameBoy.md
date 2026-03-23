@@ -4,6 +4,7 @@ description: 'Raspberry Pi Pico Game Engine'
 pubDate: 'Mar 21 2026'
 heroImage: '/public/assets/05_GameEngine/00_Logo.png'
 bannerImage: '/public/assets/05_GameEngine/00_Logo.png'
+keywords: "Visual Studio 2022, Raspberry Pi Pico W, System Programming, C++"
 ---
 
 <!-- summary -->

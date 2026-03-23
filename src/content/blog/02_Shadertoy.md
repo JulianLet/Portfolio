@@ -4,6 +4,7 @@ description: 'Real time graphics project'
 pubDate: 'Jan 17 2025'
 heroImage: '/public/assets/02_Shadertoy/00_Logo.png'
 bannerImage: '/public/assets/02_Shadertoy/00_Logo.png'
+keywords: "Visual Studio 2022, OpenGL, System Programming, C++, Shader Programming"
 ---
 
 <!-- summary -->

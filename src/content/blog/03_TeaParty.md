@@ -4,6 +4,7 @@ description: 'GameJam Plus 2024 finalist'
 pubDate: 'Jun 22 2025'
 heroImage: '/public/assets/03_TeaParty/00_LogoSq.PNG'
 bannerImage: '/public/assets/03_TeaParty/00_Logo.png'
+keywords: "Unity, System Programming, Puzzle Programming, C#"
 ---
 
 <!-- summary -->

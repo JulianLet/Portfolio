@@ -78,9 +78,9 @@ const posts = (await getCollection('blog')).sort(
               <div class="content">
                 <h4>{post.data.title}</h4>
                 <p>{post.data.description}</p>
-                <p class="date">
-                  <FormattedDate date={post.data.pubDate} />
-                </p>
+                {post.data.keywords && (
+                  <p class="date">{post.data.keywords}</p>
+                )}
               </div>
             </a>
           </li>
