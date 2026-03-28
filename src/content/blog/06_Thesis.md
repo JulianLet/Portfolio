@@ -13,7 +13,7 @@ Calypso-1 is a psychological horror co-op puzzle game, featuring two engineers s
 They quickly realize that something is wrong.
 
 <!-- my focus -->
-My research focuses on creating a **Dynamic Difficulty Adjustment System** within the game. The goal is for both players to have individual difficulty levels so that players with different skill levels can still enjoy playing together. 
+My research focuses on developing a **Dynamic Difficulty Adjustment (DDA) System** within the game. The goal is to provide each player with an individual difficulty level based on their skill. In a psychological horror game, player immersion is the most important aspect; therefore, keeping both players in the Flow state is essential.
 
 This project is being developed in _Unity 6_. As the sole programmer, I am responsible for implementing everything from basic player handling to the dynamic difficulty system.
 
